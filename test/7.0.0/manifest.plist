@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://10.237.120.157:8080/download/7.0.0/zxjt-7.0.0-202207051950-84b62a8-test.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/a4/a4/8c/a4a48c36-0661-6fe5-e7b4-568e2dec6372/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <false/>
+                    <key>url</key>
+                    <string>https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/a4/a4/8c/a4a48c36-0661-6fe5-e7b4-568e2dec6372/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.csc.zxjtzq</string>
+                <key>bundle-version</key>
+                <string>7.0.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>subtitle</key>
+                <string>蜻蜓点金</string>
+                <key>title</key>
+                <string>蜻蜓点金</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
